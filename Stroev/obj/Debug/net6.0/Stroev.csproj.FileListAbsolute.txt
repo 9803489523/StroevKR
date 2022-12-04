@@ -1,0 +1,15 @@
+D:\Orders\C#\Stroev\Stroev\bin\Debug\net6.0\Stroev.exe
+D:\Orders\C#\Stroev\Stroev\bin\Debug\net6.0\Stroev.deps.json
+D:\Orders\C#\Stroev\Stroev\bin\Debug\net6.0\Stroev.runtimeconfig.json
+D:\Orders\C#\Stroev\Stroev\bin\Debug\net6.0\Stroev.dll
+D:\Orders\C#\Stroev\Stroev\bin\Debug\net6.0\ref\Stroev.dll
+D:\Orders\C#\Stroev\Stroev\bin\Debug\net6.0\Stroev.pdb
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.csproj.AssemblyReference.cache
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.AssemblyInfoInputs.cache
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.AssemblyInfo.cs
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.csproj.CoreCompileInputs.cache
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.dll
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\ref\Stroev.dll
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.pdb
+D:\Orders\C#\Stroev\Stroev\obj\Debug\net6.0\Stroev.genruntimeconfig.cache

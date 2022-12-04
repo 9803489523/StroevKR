@@ -1,0 +1,10 @@
+100 alex
+102 denis
+199 max
+101 anatoly
+105 grigory
+200 mark
+106 oleg
+104 ivan
+158 tom
+150 eduard
